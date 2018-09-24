@@ -1,0 +1,29 @@
+html, button, input, testarea{
+	color: #444;
+}
+
+html{
+font-size: 1em;
+line-height: 1.4;
+}
+
+body {
+background: white/*#777*/;
+}
+
+#wrapper{
+	min-width:320px;
+	max-width:900px;
+	text-align:center;
+}
+
+
+img {
+
+border :3px solid rgb(100,73,36);
+box-shadow : 8px 8px 5px black;
+float: right;
+position: absolute;
+top: 20px;
+left: 690px;
+}
