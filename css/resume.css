@@ -1,5 +1,6 @@
 html, button, input, testarea{
 	color: #444;
+margin-left: 390px;
 }
 
 html{
@@ -8,13 +9,13 @@ line-height: 1.4;
 }
 
 body {
-background: white/*#777*/;
+background: #ecf7f9/*#777*/;
 }
 
 #wrapper{
 	min-width:320px;
 	max-width:900px;
-	text-align:center;
+	text-align:left /*center*/;
 }
 
 
@@ -25,9 +26,20 @@ box-shadow : 8px 8px 5px black;
 float: right;
 position: absolute;
 top: 20px;
-left: 690px;
+left: 1080px;
 }
 
 body, h1{
 font-family: alex-brush, cursive;
 }
+
+h2 {
+text-decoration: black wavy underline;
+color: #0077b3;
+}
+
+h1{
+color: #0000b3;
+text-decoration: black dotted underline;
+}
+
