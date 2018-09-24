@@ -27,3 +27,7 @@ position: absolute;
 top: 20px;
 left: 690px;
 }
+
+body, h1{
+font-family: alex-brush, cursive;
+}
