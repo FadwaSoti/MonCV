@@ -1,18 +1,27 @@
 @media only screen and (max-width: 740px){
 /*#wrapper{background: #f77;}*/
-#wrapper{ display:none;}
+#wrapper{ float :none;
+	columns: 1;
+	width: 100%;
+	}
 h2 {text-align: center;}
 }
 
 
 @media only screen and (max-width: 570px){
 /*#wrapper{background: #7f7;}*/
-#wrapper{ display:none;}
+#wrapper{ float :none;
+	columns: 1;
+	width: 100%;
+	}
 h2 {text-align: center;}
 }
 
 @media only screen and (max-width: 480px){
 /*#wrapper{background: #77f;}*/
-#wrapper{ display:none;}
+#wrapper{ float :none;
+	columns: 1;
+	width: 100%;
+	}
 h2 {text-align: center;}
 }
