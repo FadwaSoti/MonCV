@@ -1,6 +1,6 @@
 html, button, input, testarea{
 	color: #444;
-margin-left: 390px;
+/*margin-left: 390px;*/
 }
 
 html{
@@ -15,7 +15,10 @@ background: #ecf7f9/*#777*/;
 #wrapper{
 	min-width:320px;
 	max-width:900px;
-	text-align:left /*center*/;
+	text-align:/*left */center;
+	position: center;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 
@@ -24,9 +27,9 @@ img {
 border :3px solid rgb(100,73,36);
 box-shadow : 8px 8px 5px black;
 float: right;
-position: absolute;
+position: absolute; 
 top: 20px;
-left: 1080px;
+left: 1180px;
 }
 
 body, h1{
